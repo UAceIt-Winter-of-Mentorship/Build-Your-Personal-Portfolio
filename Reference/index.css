@@ -5,11 +5,7 @@ h1{
 }
 #bio{
     text-align: center;
-    font-family: 'Neonderthaw', cursive;
-}
-img{
-    margin: 10px;
-    border: 2px solid deepskyblue;
+    margin: 100px 20px;
 }
 a{
     text-decoration: none;
@@ -18,8 +14,11 @@ li{
     display: inline;
     padding: 10px;
 }
-#text{
-    margin: 20px;
-    padding: 10px;
-    border: 4px solid gold;
+.heading{
+    margin: 20px 20px;
+    /* top&bottom left&right */
+}
+.card{
+    margin: 10px 20px 10px 20px;
+    /* top right bottom left */
 }
