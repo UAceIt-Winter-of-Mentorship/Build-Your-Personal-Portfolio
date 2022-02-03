@@ -1,0 +1,51 @@
+ 
+ *{
+     background-image:linear-gradient(#D3959B,#BFE6BA);
+   } 
+
+
+h1{
+
+    text-align: center;
+    color:crimson;
+    font-family: 'Source Serif Pro', serif;
+    font-style:bold;
+}
+
+/* p{
+    text-align: center;
+    font-family: 'Ubuntu Mono', monospace;
+} */
+
+
+#bio{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+/* img{
+    margin:10px;
+    border: 2px solid black;
+    box-shadow: 12px 12px 12px;
+} */
+
+li{
+    display:inline;
+    float:right;
+    padding:10px;
+}
+
+p{
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#text{
+    margin:20px;
+    border:6px solid black;
+    padding:15px;
+}
+
+*{
+    text-decoration:none;
+}
