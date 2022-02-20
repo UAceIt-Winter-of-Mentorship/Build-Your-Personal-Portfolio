@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color:deeppink;
+    text-decoration: underline;
+}
+#bio{
+    text-align: center;
+    margin: 100px 20px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+.heading{
+    margin: 20px 20px;
+    /* top&bottom left&right */
+}
+.card{
+    margin: 10px 20px 10px 20px;
+    /* top right bottom left */
+}
