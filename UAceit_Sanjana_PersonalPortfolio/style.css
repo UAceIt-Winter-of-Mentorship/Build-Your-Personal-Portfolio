@@ -1,0 +1,122 @@
+h1{
+    text-align: center;
+    color:deeppink;
+    text-decoration: underline;
+}
+#bio{
+    text-align: center;
+    margin: 100px 20px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+.heading{
+    margin: 20px 20px;
+    /* top&bottom left&right */
+}
+.card{
+    margin: 10px 20px 10px 20px;
+    /* top right bottom left */
+}
+.contact{
+width: 100%;
+height: 950px;
+background-image: url('https://thumbs.gfycat.com/ImperturbableBouncyBighornsheep-max-1mb.gif');
+background-repeat:repeat; 
+background-size: cover;
+}
+.contact-title{
+    color: #71acce;
+    text-align: center;
+padding-top: 50px;
+font-size: 100px;
+padding-bottom: 30px;
+}
+.contact-content{
+ margin-left: 60% ;   
+ 
+}
+.contact .text{
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #81b9da;
+}
+.tab{
+    margin-bottom: 20px;
+   
+}
+input {
+    height: 100%;
+    width: 75%;
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 15px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s ease;
+padding: 10px ;
+padding-left: 10px;}
+.message{
+    height: 60%;
+    width: 75%; 
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 15px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    transition: all 0.3s ease;
+padding: 10px 0;
+padding-left: 10px;
+margin-bottom: 20px;
+}
+.button{
+    display: inline-block;
+     border-radius: 6px;
+     background-color:#81b9da;
+     color: #ffff;
+     padding: 20px 50px;
+     text-decoration: none;
+     
+    }
+    .button:hover{ background-color: lightgrey !important;
+        outline: none !important;
+    
+    
+    }
+    .phone{
+        position: absolute;
+        margin-left: 200px;
+        margin-top: 50px;
+    }
+    html{
+        scroll-behavior: smooth ;
+    }
+
+    .social-icon{
+        margin: 20px 10px;
+    }
+    .copyright{
+        
+        color: #81b9da;
+        font-size: 0.75rem;
+    padding: 20px 0;}
+    .bottom-container{
+        /* background-color: #A6DCEF; */
+        padding: 50px 0 20px;
+        text-align: center;
+    }
+    .footer-link{
+        color:#81b9da ;
+        /* font-family: 'Montserrat', sans-serif; */
+        margin: 10px 20px;
+        text-decoration: none;
+    
+    }
+    .footer-link:hover{
+        color: rgba(153, 152, 152, 0.89);}
