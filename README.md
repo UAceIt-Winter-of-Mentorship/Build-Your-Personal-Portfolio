@@ -4,7 +4,7 @@ Portfolio Website is for showing off your skills, and experience in a perfectly 
 
 #### Mentor: [Jhanvee Khola](https://github.com/jhanvee-khola)
 
-#### Mentees: [Azra](https://github.com/Azra73), [Plaksha](https://github.com/Plaksha-2002), [Khushi Jain](https://github.com/khushijain6), [Priyanka](https://github.com/Priyanka-khariya), [Manya](https://github.com/manya0702)
+#### Mentees: [Azra](https://github.com/Azra73), [Plaksha](https://github.com/Plaksha-2002), [Khushi Jain](https://github.com/khushijain6), [Priyanka](https://github.com/Priyanka-khariya), [Manya](https://github.com/manya0702), [Sanjana](https://github.com/sanjana290), [Aakanksha](https://github.com/Aakanksha-198), [Sushma](https://github.com/SUSHMA-Gautam84)
 
 
 ## Tech Stack
